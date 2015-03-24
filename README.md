@@ -14,11 +14,9 @@ The easiest way to get Cargo is to get the Rust nightly build by using the rustu
 
 This will get you the latest Rust nightly for your platform along with the latest Cargo. You should run this script almost every day to get the latest updates.
 
-If you are on Windows, you can directly download the latest 32bit (Rust and Cargo) or 64bit (Rust and Cargo) nightlies.
+If you are on Windows, you can directly download the latest 32bit (Rust and Cargo) or 64bit (Rust and Cargo) nightlies [here](http://www.rust-lang.org/).
 
 Alternatively, you can build Cargo from source.
-
-Check on other Operating Systems [here](http://www.rust-lang.org/).
 
 ### Compile
 
@@ -27,7 +25,6 @@ Check on other Operating Systems [here](http://www.rust-lang.org/).
 ### Run
 
 `$ cargo run`
-
 
 
 ## Contributing
