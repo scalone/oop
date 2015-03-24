@@ -1,6 +1,6 @@
 # OOP
 
-Just a small pieces of codes to implement Object-oriented programming in Rust, yes in Rust.
+Just a small pieces of codes to implement Object-oriented programming concepts in Rust, yes in Rust.
 
 This project is the result of class of OOP course at Fatec.
 
